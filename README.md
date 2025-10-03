@@ -1,5 +1,6 @@
 # Network Design Project – Cisco Packet Tracer
 
+![Network Topology](h.png)
 ## Overview
 This project demonstrates a multi-floor enterprise network designed and implemented in **Cisco Packet Tracer**.  
 The setup uses **OSPF (Open Shortest Path First)** as the dynamic routing protocol and supports **Inter-VLAN routing** for communication between departments.  
